@@ -1,0 +1,104 @@
+
+body {
+  background: #f7f9fb;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 24px;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  background: #fff;
+  padding: 18px 24px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #0001;
+  margin-bottom: 32px;
+}
+
+form input {
+  padding: 8px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  font-size: 1em;
+  outline: none;
+  transition: border 0.2s;
+}
+
+form input:focus {
+  border: 1.5px solid #1976d2;
+}
+
+form button {
+  padding: 8px 18px;
+  border: none;
+  border-radius: 4px;
+  background: #1976d2;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+form button[type="button"] {
+  background: #aaa;
+  margin-left: 8px;
+}
+
+form button:hover {
+  background: #125ea7;
+}
+
+form button[type="button"]:hover {
+  background: #888;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  box-shadow: 0 2px 8px #0001;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 10px 8px;
+  text-align: left;
+}
+
+th {
+  background: #1976d2;
+  color: #fff;
+  font-weight: 600;
+}
+
+tr:nth-child(even) {
+  background: #f3f6fa;
+}
+
+td button {
+  margin-right: 6px;
+  padding: 5px 12px;
+  border: none;
+  border-radius: 4px;
+  background: #43a047;
+  color: #fff;
+  cursor: pointer;
+  font-size: 0.95em;
+  transition: background 0.2s;
+}
+
+td button:last-child {
+  background: #e53935;
+}
+
+td button:hover {
+  opacity: 0.85;
+}

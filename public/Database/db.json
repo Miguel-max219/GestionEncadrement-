@@ -1,0 +1,235 @@
+{
+  "edt": [
+    {
+      "id": "78ac",
+      "profid": "1",
+      "jour": "2025-05-24",
+      "heuredebut": "10:00",
+      "heurefin": "12:00",
+      "typeLieu": "salle",
+      "lieu": "A002",
+      "urlVisio": "",
+      "activite": "Faire la conclusion"
+    },
+    {
+      "id": "03c7",
+      "profid": "2",
+      "jour": "2025-05-24",
+      "heuredebut": "09:00",
+      "heurefin": "12:00",
+      "typeLieu": "salle",
+      "lieu": "LABO",
+      "urlVisio": "",
+      "activite": "Examen Framework web"
+    },
+    {
+      "id": "abbd",
+      "profid": "1",
+      "jour": "2025-05-26",
+      "heuredebut": "08:00",
+      "heurefin": "10:00",
+      "typeLieu": "salle",
+      "lieu": "A002",
+      "urlVisio": "",
+      "activite": "Statistiques"
+    },
+    {
+      "id": "4eca",
+      "profid": "1",
+      "jour": "2025-05-24",
+      "heuredebut": "08:00",
+      "heurefin": "12:00",
+      "typeLieu": "salle",
+      "lieu": "INFO 1",
+      "urlVisio": "",
+      "activite": "Frontend"
+    },
+    {
+      "id": "533a",
+      "profid": "2",
+      "jour": "2025-05-27",
+      "heuredebut": "13:00",
+      "heurefin": "16:00",
+      "typeLieu": "salle",
+      "lieu": "A107",
+      "urlVisio": "",
+      "activite": "Conception"
+    },
+    {
+      "id": "2e85",
+      "profid": "1",
+      "jour": "2025-05-24",
+      "heuredebut": "08:00",
+      "heurefin": "12:00",
+      "typeLieu": "salle",
+      "lieu": "A107",
+      "urlVisio": "",
+      "activite": "Cahier des charges"
+    },
+    {
+      "id": "208a",
+      "profid": "2",
+      "jour": "2025-05-24",
+      "heuredebut": "08:00",
+      "heurefin": "10:00",
+      "typeLieu": "salle",
+      "lieu": "LABO",
+      "urlVisio": "",
+      "activite": "Frameworks web"
+    }
+  ],
+  "professeurs": [
+    {
+      "id": "1",
+      "nom": "RAZAFINDRAIBE",
+      "prenom": " Mr Fabrice",
+      "email": "jean.dupont@example.com",
+      "telephone": "0348349886",
+      "specialite": "Bases de Données, Big Data",
+      "departement": "Informatique",
+      "role": "Encadreur",
+      "etudiantsEncadres": [
+        1
+      ]
+    },
+    {
+      "id": "2",
+      "nom": "RANDRIANADRASANA",
+      "prenom": "Mr Romano",
+      "email": "sophie.martin@example.com",
+      "telephone": "0328349886",
+      "specialite": "Réseaux, Sécurité",
+      "departement": "Télécommunications",
+      "role": "Enseignant",
+      "etudiantsEncadres": [
+        2
+      ]
+    }
+  ],
+  "etudiants": [
+    {
+      "id": "1",
+      "nom": "RAKOTONAVALONA",
+      "prenom": "Heninsoa",
+      "email": "alice.durand@example.com"
+    },
+    {
+      "id": "2",
+      "nom": "RAKOTONAVALONA",
+      "prenom": "Kanto",
+      "email": "lucas.petit@example.com"
+    }
+  ],
+  "salles": [
+    {
+      "id": "1",
+      "nom": "A101"
+    },
+    {
+      "id": "2",
+      "nom": "B200"
+    },
+    {
+      "id": "3",
+      "nom": "B300"
+    },
+    {
+      "id": "4",
+      "nom": "A003"
+    },
+    {
+      "id": "5",
+      "nom": "A002"
+    },
+    {
+      "id": "6",
+      "nom": "A201"
+    },
+    {
+      "id": "7",
+      "nom": "A205"
+    },
+    {
+      "id": "8",
+      "nom": "LABO"
+    },
+    {
+      "id": "9",
+      "nom": "INFO 1"
+    },
+    {
+      "id": "10",
+      "nom": "INFO 2"
+    },
+    {
+      "id": "11",
+      "nom": "A103"
+    },
+    {
+      "id": "12",
+      "nom": "A105"
+    },
+    {
+      "id": "13",
+      "nom": "A107"
+    }
+  ],
+  "soutenances": [
+    {
+      "id": "c56e",
+      "etudiantId": "1",
+      "professeurId": "1",
+      "titre": "Gestion de personnels",
+      "projetValide": true,
+      "memoireValide": false,
+      "date": "",
+      "heure": "",
+      "lieu": ""
+    },
+    {
+      "id": "feab",
+      "etudiantId": "2",
+      "professeurId": "2",
+      "titre": "Application mobile d'un site existant",
+      "projetValide": true,
+      "memoireValide": true,
+      "date": "2025-08-14",
+      "heure": "15:00",
+      "lieu": "A201"
+    }
+  ],
+  "suivi": [
+    {
+      "id": "1",
+      "id_edt": "1",
+      "id_etudiant": "1",
+      "tache": "Faire un schéma",
+      "description": "Schéma de la base",
+      "commentaire_tache": "Fait rapidement",
+      "date_commence_tache": "2025-05-22",
+      "date_delai_tache": "2025-05-24",
+      "tache_effectue": false,
+      "date_fini_tache": ""
+    }
+  ],
+  "encadrement": [
+    {
+      "id": "1",
+      "etudiantid": "1",
+      "encadreurid": "1",
+      "dateDebut": "2025-05-22",
+      "dateFin": "2025-08-22",
+      "sujet": "idk",
+      "lieu": "idktoo"
+    },
+    {
+      "id": "1",
+      "etudiantid": "2",
+      "encadreurid": "2",
+      "dateDebut": "2025-05-22",
+      "dateFin": "2025-08-22",
+      "sujet": "idk",
+      "lieu": "idktoo"
+    }
+  ]
+}

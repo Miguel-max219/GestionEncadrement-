@@ -1,0 +1,68 @@
+{
+  "etudiants": [
+    {
+      "id": "1",
+      "nom": "Jean Rakoto"
+    },
+    {
+      "id": "2",
+      "nom": "Sarah Rasoanaivo"
+    }
+  ],
+  "professeurs": [
+    {
+      "id": "1",
+      "nom": "Dr. Randria"
+    },
+    {
+      "id": "2",
+      "nom": "Mme Ramanantsoa"
+    }
+  ],
+  "soutenances": [
+    {
+      "id": "1",
+      "etudiantId": 1,
+      "professeurId": 2,
+      "titreProjet": "Application mobile de gestion des stocks",
+      "projetValide": true,
+      "memoireValide": true,
+      "date": "2025-06-10",
+      "heure": "09:00",
+      "lieu": "Salle B101"
+    },
+    {
+      "id": "2",
+      "etudiantId": 2,
+      "professeurId": 3,
+      "titreProjet": "Site web de réservation d’hôtels",
+      "projetValide": false,
+      "memoireValide": false,
+      "date": null,
+      "heure": null,
+      "lieu": null
+    },
+    {
+      "id": "3",
+      "etudiantId": 3,
+      "professeurId": 1,
+      "titreProjet": "Système de gestion des courriers",
+      "projetValide": true,
+      "memoireValide": false,
+      "date": null,
+      "heure": null,
+      "lieu": null
+    },
+    {
+      "id": "c56e",
+      "etudiantId": "1",
+      "professeurId": "1",
+      "titre": "Gestion de personnels",
+      "projetValide": true,
+      "memoireValide": false,
+      "date": "",
+      "heure": "",
+      "lieu": ""
+    }
+  ]
+}
